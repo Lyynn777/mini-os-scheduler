@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
+
 # Mini OS-Level CPU Task Scheduler
 
 A simulation of classic CPU scheduling algorithms using Python. Built to visualize and understand core Operating System concepts like FCFS, Round Robin, and Priority Scheduling.
