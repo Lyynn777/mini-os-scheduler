@@ -75,7 +75,7 @@ Gantt Chart:
 
 ### Author
 Pragya M S
-Built as a part of Operating Systems concept revision and DevOps portfolio strengthening.
+(Built as a part of Operating Systems concept revision)
 
 ## License
 This project is licensed under the MIT License. You are free to fork and build upon it.
