@@ -16,14 +16,11 @@ A simulation of classic CPU scheduling algorithms using Python. Built to visuali
 
 ## Project Structure
 
-.
 ├── task.py # Task class with attributes like arrival_time, burst_time, priority
-├── scheduler.py # Main logic for all scheduling algorithms + Gantt chart
-└── README.md # Project documentation
 
-yaml
-Copy
-Edit
+├── scheduler.py # Main logic for all scheduling algorithms + Gantt chart
+
+└── README.md # Project documentation
 
 ---
 
@@ -40,34 +37,40 @@ Edit
 
 ```bash
 python scheduler.py
-Sample Output
-sql
-Copy
-Edit
+```
+---
+
+## Sample Output
+
 === FCFS Scheduling ===
+
 T1 | Start: 0 | End: 5
+
 T2 | Start: 5 | End: 8
+
 T3 | Start: 8 | End: 9
 
 Gantt Chart:
 |--T1--|--T2--|--T3--|
-0     5     8     9
 
+0          5              8           9   
 
-###Future Scope
-Add Preemptive Priority and Shortest Job First (SJF) scheduling
+---
 
-Generate performance metrics: Turnaround Time, Waiting Time
+## Future Scope
+- Add Preemptive Priority and Shortest Job First (SJF) scheduling
 
-Add CLI interface using argparse
+- Generate performance metrics: Turnaround Time, Waiting Time
 
-Add GUI using Tkinter
+- Add CLI interface using argparse
 
-Build a web-based simulator using Flask or React
+- Add GUI using Tkinter
 
-Author
-Your Name
+- Build a web-based simulator using Flask or React
+
+### Author
+Pragya M S
 Built as a part of Operating Systems concept revision and DevOps portfolio strengthening.
 
-License
+## License
 This project is licensed under the MIT License. You are free to fork and build upon it.
