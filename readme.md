@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-
+![Python](https://img.shields.io/badge/Python-3.6%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/CPU%20Scheduling-FCFS%20%7C%20RR%20%7C%20Priority-blueviolet?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-Concepts-orange?style=for-the-badge)
+![Learning Project](https://img.shields.io/badge/Project-Learning%20OS%20Concepts-yellow?style=for-the-badge)
 
 # Mini OS-Level CPU Task Scheduler
 
